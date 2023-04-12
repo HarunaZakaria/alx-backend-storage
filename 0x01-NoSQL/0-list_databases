@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-"""
-Write a script that lists all databases in MongoDB.
-"""
+//Write a script that lists all databases in MongoDB.
+
 from pymongo import MongoClient
 
 # Connect to the local MongoDB server
